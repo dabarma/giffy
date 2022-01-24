@@ -1,0 +1,9 @@
+.trendingContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.trendingContainer > div {
+    margin: 5px;
+}
